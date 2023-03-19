@@ -1,0 +1,20 @@
+name: Feature
+description: File a feature development report
+title: "[Feature]: "
+labels: ["feature"]
+assignees:
+  - ee090186
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: summary
+      description: Describe the feature
+    validations:
+      required: true
+  - type: textarea
+    id: refelence
+    attributes:
+      label: Refelence
+      description: Please copy and paste any refelence links of the feature
+      render: shell
