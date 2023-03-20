@@ -17,4 +17,3 @@ body:
     attributes:
       label: Refelence
       description: Please copy and paste any refelence links of the feature
-      render: shell
