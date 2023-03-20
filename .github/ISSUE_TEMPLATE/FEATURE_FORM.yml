@@ -10,10 +10,20 @@ body:
     attributes:
       label: summary
       description: Describe the feature
+      value: |
+        
+        <br>
+        <br>
     validations:
       required: true
+      
   - type: textarea
     id: refelence
     attributes:
       label: Refelence
       description: Please copy and paste any refelence links of the feature
+      value: |
+        []()
+        
+        <br>
+        <br>
