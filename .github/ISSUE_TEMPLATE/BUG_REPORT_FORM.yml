@@ -13,28 +13,27 @@ body:
       placeholder: Tell us what you see!
     validations:
       required: true
-  - type: textarea
+
+- type: textarea
     id: logs
     attributes:
       label: Relevant log output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+
   - type: textarea
     id: cause
     attributes:
       label: Cause
       description: Please describe the likely cause of the bug (if known)
-      render: shell
+
   - type: textarea
     id: solution
     attributes:
       label: Solution
       description: Please describe the solution of the bug (if known)
-      render: shell
+
   - type: textarea
     id: refelence
     attributes:
       label: Refelence
       description: Please copy and paste any refelence links of the bug or solution (if known)
-      render: shell
-
