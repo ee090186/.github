@@ -12,7 +12,6 @@ body:
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
     value: |
-      
       <br>
       <br>
     validations:
@@ -34,7 +33,6 @@ body:
       label: Cause
       description: Please describe the likely cause of the bug (if known)
     value: |
-      
       <br>
       <br>
 
@@ -44,7 +42,6 @@ body:
       label: Solution
       description: Please describe the solution of the bug (if known)
     value: |
-      
       <br>
       <br>
       
@@ -54,7 +51,6 @@ body:
       label: Refelence
       description: Please copy and paste any refelence links of the bug or solution (if known)
     value: |
-      
       []()
       <br>
       <br>
