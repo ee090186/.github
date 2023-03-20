@@ -33,25 +33,26 @@ body:
     attributes:
       label: Cause
       description: Please describe the likely cause of the bug (if known)
-    value: |
-      <br>
-      <br>
+      value: |
+        <br>
+        <br>
 
   - type: textarea
     id: solution
     attributes:
       label: Solution
       description: Please describe the solution of the bug (if known)
-    value: |
-      <br>
-      <br>
+      value: |
+        <br>
+        <br>
       
   - type: textarea
     id: refelence
     attributes:
       label: Refelence
       description: Please copy and paste any refelence links of the bug or solution (if known)
-    value: |
-      []()
-      <br>
-      <br>
+      value: |
+        []()
+        
+        <br>
+        <br>
